@@ -13,7 +13,7 @@
 
 - Install apache using the package manager
 
-    ![linuxserver](./images/apache.PNG)
+    ![linux_server](./images/apache.PNG)
 
 - Confirm apache is installed
 
