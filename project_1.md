@@ -4,7 +4,7 @@
 - [Crash course for beginners (necessary but optional)](https://www.youtube.com/playlist?list=PLtPuNR8I4TvkwU7Zu0l0G_uwtSUXLckvh)
 
 ## Create your linux server in the cloud (ssh into your EC2 instance)
-![linux_server](.\images\linux_server.Png)
+![linux_server](./images/linux_server.Png)
 
 ## Launch your web server in the cloud
 - Update packages in the package manager
