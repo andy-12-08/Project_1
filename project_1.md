@@ -4,12 +4,12 @@
 - [Crash course for beginners (necessary but optional)](https://www.youtube.com/playlist?list=PLtPuNR8I4TvkwU7Zu0l0G_uwtSUXLckvh)
 
 ## Create your linux server in the cloud (ssh into your EC2 instance)
-![linux_server](./images/linux_server.Png)
+![linux_server](./images/linux_server.png)
 
 ## Launch your web server in the cloud
 - Update packages in the package manager
 
-    ![linux_server](.\images\update.png)
+    ![linux_server](./images/update.PNG)
 
 - Install apache using the package manager
 
